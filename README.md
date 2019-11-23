@@ -30,3 +30,27 @@ Projects
    Package used:
    
       Opencv 4.1.1
+
+Gallery :
+
+![Car](images/car_detection.jpg)
+
+![Pedestrian](images/c_pedestrian_detection.png)
+
+![detection_yolo](images/result.jpg)
+
+![Shapes](images/shapes.png)
+
+![Blobs](images/blobs.jpg)
+
+![Face](images/face.jpg)
+
+
+
+
+
+
+
+
+
+
